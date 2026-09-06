@@ -1,7 +1,3 @@
-# AgriLink Vision
+# Vision
 
-## North Star
-
-Να γίνει το AgriLink η ταχύτερη διαδρομή από μια πραγματική ανάγκη σε μια πραγματική εκτέλεση.
-
-Το προϊόν δεν πουλά εργολάβους ούτε AI. Λύνει πραγματικά προβλήματα με AI-Orchestrated Field-Centric αρχιτεκτονική.
+Fastest path from need to execution.

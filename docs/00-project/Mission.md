@@ -1,3 +1,3 @@
 # Mission
 
-Το AgriLink δημιουργεί ένα κοινό επιχειρησιακό οικοσύστημα όπου ο NeedOriginator εκφράζει μια πραγματική ανάγκη, ο NeedExecutor αξιοποιεί το πραγματικό του Inventory και ο AI Orchestrator ενορχηστρώνει τη διαδικασία χωρίς κανένας Agent να έχει αυτόνομη εξουσία.
+Field-centric AI orchestrated marketplace.

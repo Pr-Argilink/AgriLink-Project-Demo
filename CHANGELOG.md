@@ -1,5 +1,4 @@
 # Changelog
 
-## v0.1.0
-- Architecture Freeze
-- Initial repository governance
+## v0.2.0
+- Repository bootstrap bundle

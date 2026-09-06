@@ -1,3 +1,3 @@
 # North Star
 
-Να γίνει το AgriLink η ταχύτερη διαδρομή από μια πραγματική ανάγκη σε μια πραγματική εκτέλεση, με εξηγήσιμο matching, ψηφιακά δίδυμα χωραφιών και ασφαλείς συναλλαγές.
+Reduce friction between NeedOriginator and NeedExecutor.
